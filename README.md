@@ -8,13 +8,10 @@ I'm a driven individual with the ability to adapt and thrive in challenging envi
 I originally became interested in cybersecurity during the summer of 2022 while quarantined due to Covid. After almost a decade in the restaurant industry, I knew I wanted to pivot into a tech based career, but I was not sure which field to go into. I had already taken online classes in programming and IT management, but my real journey began when I started researching cybersecurity.  
 The more I read up on subjects like risk management, vulnerability scanning, and network hardening- the more fascinated I became. This led me to enroll in Flatiron School’s Cybersecurity Engineering Program, which I completed in February 2024 and now I am currently seeking a role as a:
 
--Cybersecurity Engineer
-
--Cybersecurity Analyst
-
--Security Risk and Compliance Engineer
-
--Risk Management Analyst
+-Cybersecurity Engineer  
+-Cybersecurity Analyst  
+-Security Risk and Compliance Engineer  
+-Risk Management Analyst  
 
 
 
@@ -35,27 +32,27 @@ The more I read up on subjects like risk management, vulnerability scanning, and
 ## Tools
 
 ### Network
-Wireshark
-Nmap
-Nessus
-Cowrie
+Wireshark    
+Nmap  
+Nessus  
+Cowrie  
 
 ### Endpoint
-Microsoft Defender
+Microsoft Defender  
 
 ### SIEM
-Splunk
-Logstash
-Elasticsearch
-Kibana
+Splunk  
+Logstash  
+Elasticsearch  
+Kibana  
 
 ## Certifications
-CompTIA A+ (expected July 2024)
-CompTIA Security + (Expected August 2024)
+CompTIA A+ (expected July 2024)  
+CompTIA Security + (Expected August 2024)  
 
 
 ## Projects
-- <a href="https://github.com/sgennarelli13/GRC-Lab/tree/main">GRC Risk Management Simulation</a>
-- Splunk Development Lab
-- Home Pentesting Lab
-- SOC Automation Lab (in progress)
+- <a href="https://github.com/sgennarelli13/GRC-Lab/tree/main">GRC Risk Management Simulation</a>  
+- Splunk Development Lab  
+- Home Pentesting Lab  
+- SOC Automation Lab (in progress)  
