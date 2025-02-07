@@ -11,7 +11,7 @@ The more I read up on subjects like risk management, vulnerability scanning, and
 -Cybersecurity Engineer  
 -Cybersecurity Analyst  
 -Security Risk and Compliance Engineer  
--Risk Management Analyst  
+-Risk Management Specialist  
 
 
 
@@ -45,10 +45,6 @@ Splunk
 Logstash  
 Elasticsearch  
 Kibana  
-
-## Certifications
-CompTIA A+ (expected July 2024)  
-CompTIA Security + (Expected August 2024)  
 
 
 ## Projects
